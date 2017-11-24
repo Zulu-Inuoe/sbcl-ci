@@ -1,4 +1,4 @@
-# sbcl-releases
+# sbcl-ci
 
 Automated builds of [sbcl](http://www.sbcl.org/) utilizing their [GitHub Mirror](https://github.com/sbcl/sbcl).
 
